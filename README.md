@@ -1,4 +1,4 @@
-# My Unity Project
+# Immersive Learning VR System
 
 A standard Unity 6 project template.
 
